@@ -1,8 +1,9 @@
 ## Hi, I'm Brian 👋
 Working on: Human + AI Interaction & Interface Design | Language Model Intelligence
 
-<img src="https://raw.githubusercontent.com/BrianJLynch/BrianJLynch/main/assets/upwork_logo.svg" width="100" />
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/BrianJLynch/BrianJLynch/main/assets/upwork_logo.svg" width="100" />
+</div>
 <!--
 **BrianJLynch/BrianJLynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
